@@ -132,6 +132,5 @@
         </xacro:inertial_sphere>
     </link>
 
-  <!--최지원-->
 
 </robot>
